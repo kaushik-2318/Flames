@@ -7,9 +7,9 @@ int fla(){
     char crush[50];
     char name1[50];
     char crush1[50];
-    cout<<"Enter Your Name:- ";
+    cout<<"Enter Your Name without Space:- ";
     cin>>name;
-    cout<<"Enter Your Crush Name:- ";
+    cout<<"Enter Your Crush Name without Space:- ";
     cin>>crush;
     int a = strlen(name);
     int b = strlen(crush);
