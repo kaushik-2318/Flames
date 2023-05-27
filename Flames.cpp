@@ -64,7 +64,6 @@ int fla(){
         cout<<"\nCongrats!!! both are going to be husband and wife.\n\n";
         break;
     }
-    cout<<"Credits:- Kaushik Verma and Jaish Nawed\n\n";
 }
 int main(){
     cout<<"WELCOME TO FLAME\n";
